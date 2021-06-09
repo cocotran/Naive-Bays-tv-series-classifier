@@ -1,18 +1,25 @@
 from bs4.element import ResultSet
-import requests
 from bs4 import BeautifulSoup
 from requests.models import Response
+import csv
+import requests
 
 
-def scrape(url: str, number_of_season: int) -> list:
+class Episode:
+    def __init__(self, name: str, season: int, review_link: str, year: str) -> None:
+        self.name = name
+        self.season = season
+        self.review_link = review_link
+        self.year = year
+
+
+def scrape(url: str, number_of_season: int) -> None:
 
     # Database
     raw_data: list = []
 
     def add_episode(name: str, season: int, review_link: str, year: str) -> None:
-        raw_data.append(
-            {"name": name, "season": season, "review_link": review_link, "year": year}
-        )
+        raw_data.append(Episode(name, season, review_link, year))
 
     for season in range(1, number_of_season + 1):
 
@@ -31,10 +38,23 @@ def scrape(url: str, number_of_season: int) -> list:
             ]  # Get last 4 character of date string: e.g. 24 Jun. 2015
             add_episode(name, season, review_link, year)
 
-    return raw_data
+    with open("data.csv", "w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow(["No", "Name", "Season", "Review Link", "Year"])
+
+        for i in range(len(raw_data)):
+            episode: dict = raw_data[i]
+            data: list = [
+                i,
+                episode.name,
+                episode.season,
+                episode.review_link,
+                episode.year,
+            ]
+            writer.writerow(data)
 
 
 if __name__ == "__main__":
 
     url: str = "https://www.imdb.com/title/tt4158110/episodes?season="
-    print(scrape(url, 1))
+    scrape(url, 4)
