@@ -11,6 +11,8 @@ stopwords: list = file.read().split("\n")
 file.close()
 
 
+number_of_positive_reviews: int = 0
+number_of_negative_reviews: int = 0
 training_positive_set: list = []
 training_negative_set: list = []
 
@@ -22,6 +24,8 @@ file = open("training_positive.txt", "r")
 training_positive_file_lines: list = file.read().split("\n")
 file.close()
 
+number_of_positive_reviews = len(training_positive_file_lines)
+
 for line in training_positive_file_lines:
     for word in line.split(" "):
         training_positive_set.append(clean_word(word))
@@ -30,6 +34,8 @@ for line in training_positive_file_lines:
 file = open("training_negative.txt", "r")
 training_negative_file_lines: list = file.read().split("\n")
 file.close()
+
+number_of_negative_reviews = len(training_negative_file_lines)
 
 for line in training_negative_file_lines:
     for word in line.split(" "):
@@ -40,6 +46,12 @@ visited_words: Deque = deque([])
 
 
 def process(word: str, word_count: int) -> None:
+
+    def laplace_smoothing(number_of_reviews: int) -> float:
+        alpha: float = 1
+        probability: float = alpha / (number_of_reviews + alpha * 2) # 2 features in dataset
+        return probability
+
     fm = open("model.txt", "a")
     fr = open("remove.txt", "a")
 
@@ -75,6 +87,17 @@ def process(word: str, word_count: int) -> None:
         training_negative_set
     )
 
+    # Apply Laplace smoothing
+    if frequency_in_positive == 0:
+        conditional_probability_in_positive = laplace_smoothing(number_of_positive_reviews)
+    elif frequency_in_negative == 0:
+        conditional_probability_in_negative = laplace_smoothing(number_of_negative_reviews)
+
+    # Filtering words with low frequency
+    if frequency_in_positive < 3 and frequency_in_negative < 3:
+        fr.write(word + "\n")
+        return
+
     fm.write("No. " + str(word_count) + " " + word + "\n")
     fm.write(
         "{},{},{},{}\n".format(
@@ -92,5 +115,8 @@ def process(word: str, word_count: int) -> None:
 if __name__ == "__main__":
     count = 0
     for word in training_positive_set:
+        process(word, count)
+        count += 1
+    for word in training_negative_set:
         process(word, count)
         count += 1
