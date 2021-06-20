@@ -47,11 +47,6 @@ visited_words: Deque = deque([])
 
 def process(word: str, word_count: int) -> None:
 
-    def laplace_smoothing(number_of_reviews: int) -> float:
-        alpha: float = 1
-        probability: float = alpha / (number_of_reviews + alpha * 2) # 2 features in dataset
-        return probability
-
     fm = open("model.txt", "a")
     fr = open("remove.txt", "a")
 
@@ -80,25 +75,21 @@ def process(word: str, word_count: int) -> None:
         if word == i:
             frequency_in_negative += 1
 
-    conditional_probability_in_positive: float = frequency_in_positive / len(
+    alpha: float = 1.0
+
+    conditional_probability_in_positive: float = (frequency_in_positive + alpha) / len(
         training_positive_set
     )
-    conditional_probability_in_negative: float = frequency_in_negative / len(
+    conditional_probability_in_negative: float = (frequency_in_negative + alpha) / len(
         training_negative_set
     )
-
-    # Apply Laplace smoothing
-    if frequency_in_positive == 0:
-        conditional_probability_in_positive = laplace_smoothing(number_of_positive_reviews)
-    elif frequency_in_negative == 0:
-        conditional_probability_in_negative = laplace_smoothing(number_of_negative_reviews)
 
     # Filtering words with low frequency
     if frequency_in_positive < 3 and frequency_in_negative < 3:
         fr.write(word + "\n")
         return
 
-    fm.write("No. " + str(word_count) + " " + word + "\n")
+    fm.write("No." + str(word_count) + " " + word + "\n")
     fm.write(
         "{},{},{},{}\n".format(
             frequency_in_positive,

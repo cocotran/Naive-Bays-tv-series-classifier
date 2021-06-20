@@ -1,0 +1,751 @@
+No.0  wow
+0.4753611177164385,0.5246388822835616,negative,positive,wrong
+No.1  what a brilliant ho
+0.4955127254121152,0.5044872745878848,negative,positive,wrong
+No.2  hit all the right b
+0.4715328019909809,0.5284671980090191,negative,positive,wrong
+No.3  after the first cou
+0.7658338991474216,0.23416610085257838,positive,positive,right
+No.4  mr. robot is my fav
+0.8570135819244176,0.14298641807558246,positive,positive,right
+No.5  what an episode !.
+0.5019984464256416,0.49800155357435844,positive,positive,right
+No.6 it was great, great 
+0.5715314884945975,0.4284685115054026,positive,positive,right
+No.7  incredible display 
+0.510909378975171,0.4890906210248291,positive,positive,right
+No.8 and how desperate an
+0.659506342356537,0.34049365764346307,positive,positive,right
+No.9  this episode is the
+0.6165754528069863,0.3834245471930136,positive,positive,right
+No.10  there's no doubt th
+0.9993763324923433,0.0006236675076566796,positive,positive,right
+No.11  another episode, an
+0.5790966073805488,0.42090339261945114,positive,positive,right
+No.12  this gave me chills
+0.6796075655919391,0.320392434408061,positive,positive,right
+No.13 99.9% is'nt enough 😨
+0.5273765094865962,0.4726234905134038,positive,positive,right
+No.14  this is epic tv. in
+0.5904076942731705,0.4095923057268295,positive,positive,right
+No.15  that intro explaini
+0.529482672970485,0.4705173270295151,positive,positive,right
+No.16  another awesome epi
+0.7829719871593853,0.2170280128406147,positive,positive,right
+No.17  enjoyed the develop
+0.5670319382272272,0.43296806177277275,positive,positive,right
+No.18  this episode was tr
+0.5328568155927268,0.46714318440727326,positive,positive,right
+No.19  bring me 1. only on
+0.5516406991650279,0.4483593008349721,positive,positive,right
+No.20 and also a lot of qu
+0.5865121491827786,0.4134878508172215,positive,positive,right
+No.21  this episode had a 
+0.36292044809610857,0.6370795519038914,negative,positive,wrong
+No.22  this installment of
+0.5204330777889499,0.4795669222110501,positive,positive,right
+No.23  amazing episode! al
+0.6656723553315301,0.33432764466847,positive,positive,right
+No.24  this episode stands
+0.897720393772997,0.10227960622700302,positive,positive,right
+No.25  this was an interes
+0.7965072902584598,0.2034927097415403,positive,positive,right
+No.26  if thats elliot, wh
+0.610594899802521,0.3894051001974789,positive,positive,right
+No.27 is her mom involve i
+0.542932816376905,0.457067183623095,positive,positive,right
+No.28 mmm... that whiteros
+0.43498431607806315,0.5650156839219368,negative,positive,wrong
+No.29 always thought the b
+0.5564294738998867,0.44357052610011327,positive,positive,right
+No.30  there are so many p
+0.6591000205049311,0.34089997949506895,positive,positive,right
+No.31  episode by episode,
+0.5398916915884936,0.4601083084115063,positive,positive,right
+No.32 opening suicide scen
+0.5920661671792562,0.40793383282074386,positive,positive,right
+No.33 every moment and cha
+0.5175270849591836,0.48247291504081624,positive,positive,right
+No.34  what an episode. it
+0.7499008048563787,0.2500991951436214,positive,positive,right
+No.35  this episode is far
+0.566420190812957,0.433579809187043,positive,positive,right
+No.36  '403 forbidden' is 
+0.980686718092335,0.019313281907664983,positive,positive,right
+No.37  while it is no majo
+0.5486829347210286,0.4513170652789714,positive,positive,right
+No.38  we finally get our 
+0.7164942789053806,0.28350572109461936,positive,positive,right
+No.39  this episode makes 
+0.5888489540217042,0.4111510459782957,positive,positive,right
+No.40  vera!! had to get m
+0.6567025954020052,0.343297404597995,positive,positive,right
+No.41  a strange episode l
+0.4315593204920307,0.5684406795079694,negative,positive,wrong
+No.42  this episode was ve
+0.5226575915617092,0.4773424084382906,positive,positive,right
+No.43  i don't know what i
+0.792654002775615,0.20734599722438493,positive,positive,right
+No.44 it's difficult to ex
+0.5675112630883244,0.4324887369116756,positive,positive,right
+No.45  tyrell standing on 
+0.48463412697803937,0.5153658730219606,negative,positive,wrong
+No.46  comedic relief is l
+0.9176650722130698,0.08233492778693019,positive,positive,right
+No.47  since the very begi
+0.6849456816239495,0.3150543183760505,positive,positive,right
+No.48 i have nothing but r
+0.5430470164934733,0.4569529835065267,positive,positive,right
+No.49 i hope this artwork 
+0.536104975607791,0.46389502439220903,positive,positive,right
+No.50  most of this episod
+0.9169224277926765,0.08307757220732341,positive,positive,right
+No.51  that final scene go
+0.7138150786654277,0.28618492133457235,positive,positive,right
+No.52  the moment this epi
+0.8522948497645171,0.14770515023548292,positive,positive,right
+No.53  this season deserve
+0.5280237588587189,0.47197624114128117,positive,positive,right
+No.54  as from the beginni
+0.5789571290304414,0.4210428709695585,positive,positive,right
+No.55 and i dont know why 
+0.7494212848356371,0.25057871516436286,positive,positive,right
+No.56  a brilliant episode
+0.6165154710915093,0.38348452890849066,positive,positive,right
+No.57  i have got to be ho
+0.9867064221618859,0.013293577838114152,positive,positive,right
+No.58  one of my favorites
+0.5710741902959826,0.4289258097040174,positive,positive,right
+No.59 photography was beau
+0.5528933451303779,0.447106654869622,positive,positive,right
+No.60  some people are cal
+0.9226561482624294,0.07734385173757061,positive,positive,right
+No.61  only a show like mr
+0.6821031076820261,0.31789689231797386,positive,positive,right
+No.62  this episode is ver
+0.5416714322614029,0.4583285677385971,positive,positive,right
+No.63  it's just one of th
+0.32369850146727447,0.6763014985327255,negative,positive,wrong
+No.64  a triumph. it is on
+0.47360071364919615,0.5263992863508038,negative,positive,wrong
+No.65  i think this episod
+0.7716081738397704,0.22839182616022968,positive,positive,right
+No.66  i cried for welick,
+0.5888796241317548,0.41112037586824535,positive,positive,right
+No.67  this is the best ep
+0.5281249103374756,0.4718750896625244,positive,positive,right
+No.68  405 is among the gr
+0.5639672603982502,0.4360327396017499,positive,positive,right
+No.69  this episode is ver
+0.826084592091035,0.1739154079089649,positive,positive,right
+No.70  my brain is on erro
+0.5,0.5,positive,positive,right
+No.71 sam esmail proven hi
+0.39607287984966294,0.603927120150337,negative,positive,wrong
+No.72  just like last week
+0.6041638406757723,0.3958361593242278,positive,positive,right
+No.73 i'm so glad this sho
+0.523586857560904,0.476413142439096,positive,positive,right
+No.74  ...that - with the 
+0.7748106386114896,0.2251893613885103,positive,positive,right
+No.75  everything in this 
+0.48201658017843335,0.5179834198215667,negative,positive,wrong
+No.76 only two lines of di
+0.5432093462809335,0.4567906537190664,positive,positive,right
+No.77 episode begins with 
+0.5432646495889214,0.45673535041107866,positive,positive,right
+No.78 probably the best mr
+0.4814943447591549,0.5185056552408451,negative,positive,wrong
+No.79  the whole episode w
+0.5533324550649106,0.4466675449350894,positive,positive,right
+No.80  straightly put, as 
+0.580255492134846,0.41974450786515405,positive,positive,right
+No.81  masterclass. held m
+0.49668538663080836,0.5033146133691916,negative,positive,wrong
+No.82  only after watching
+0.4828462687826353,0.5171537312173646,negative,positive,wrong
+No.83 this is art, mr. esm
+0.5292342815932832,0.4707657184067168,positive,positive,right
+No.84  it's started with '
+0.558535296415338,0.44146470358466205,positive,positive,right
+No.85  i can't believe how
+0.5469849371942657,0.45301506280573434,positive,positive,right
+No.86 the suspense that wa
+0.5232256444943637,0.47677435550563624,positive,positive,right
+No.87 everything in this e
+0.4526552587111497,0.5473447412888504,negative,positive,wrong
+No.88  the fact that the e
+0.46642071502849924,0.5335792849715008,negative,positive,wrong
+No.89  best television ser
+0.5738132007024777,0.4261867992975223,positive,positive,right
+No.90  thanks for everythi
+0.4803743079711319,0.5196256920288681,negative,positive,wrong
+No.91  elliot and darlene 
+0.5155543824998954,0.4844456175001046,positive,positive,right
+No.92  i can't believe wha
+0.4846947128674616,0.5153052871325383,negative,positive,wrong
+No.93 it's extraordinary h
+0.4391433976823551,0.5608566023176449,negative,positive,wrong
+No.94 again, unbelievable.
+0.5,0.5,positive,positive,right
+No.95  this episode was a 
+0.5249567919470816,0.47504320805291833,positive,positive,right
+No.96  just holy jesus i w
+0.560577648340985,0.4394223516590149,positive,positive,right
+No.97  it could be viewed 
+0.5837843282432246,0.4162156717567753,positive,positive,right
+No.98  my niga elliot has 
+0.5440207916664856,0.4559792083335144,positive,positive,right
+No.99  i was a little late
+0.5600189874820002,0.43998101251799987,positive,positive,right
+No.100  i am going to watch
+0.6046278074301983,0.3953721925698016,positive,positive,right
+No.101  episodes by episode
+0.638141281282515,0.36185871871748493,positive,positive,right
+No.102  this season has bee
+0.8686176727138296,0.1313823272861704,positive,positive,right
+No.103  the gang's all here
+0.5761368600708183,0.4238631399291816,positive,positive,right
+No.104  really good episode
+0.7168767090510432,0.2831232909489569,positive,positive,right
+No.105  all three plot line
+0.6623778513455849,0.3376221486544151,positive,positive,right
+No.106  i'm running out of 
+0.6769589600172041,0.32304103998279593,positive,positive,right
+No.107  this is what the ep
+0.5540358614082201,0.44596413859177997,positive,positive,right
+No.108  without spoiling, t
+0.5264331630645469,0.47356683693545304,positive,positive,right
+No.109  i kind of hate the 
+0.6131766012754242,0.38682339872457583,positive,positive,right
+No.110  just like whole ser
+0.5441530319822367,0.4558469680177633,positive,positive,right
+No.111  every episode this 
+0.7580613949450996,0.24193860505490045,positive,positive,right
+No.112  this episode doesn'
+0.5192218239620835,0.4807781760379164,positive,positive,right
+No.113  finally i feel mr.r
+0.4801084431018372,0.5198915568981628,negative,positive,wrong
+No.114  when sam announced 
+0.8495827166814369,0.15041728331856308,positive,positive,right
+No.115  i don't want to spo
+0.9197179451981828,0.08028205480181723,positive,positive,right
+No.116  man, what an incred
+0.8611336128301311,0.138866387169869,positive,positive,right
+No.117  4x07 is truly a rem
+0.7893577578094704,0.21064224219052974,positive,positive,right
+No.118  absolute wonder of 
+0.5790962908632508,0.42090370913674935,positive,positive,right
+No.119  1. denial
+0.5,0.5,positive,positive,right
+No.120 2. anger
+0.5,0.5,positive,positive,right
+No.121 3. bargaining
+0.5,0.5,positive,positive,right
+No.122 4. depression
+0.5,0.5,positive,positive,right
+No.123 5. acceptancevery cl
+0.62145936932858,0.3785406306714199,positive,positive,right
+No.124  i didn't knew why i
+0.6739644237951902,0.3260355762048098,positive,positive,right
+No.125  holy s**t. best epi
+0.5455879109945178,0.4544120890054822,positive,positive,right
+No.126  vera's purpose for 
+0.8204274157135166,0.17957258428648337,positive,positive,right
+No.127  this episode left m
+0.706193754836767,0.29380624516323295,positive,positive,right
+No.128 to esmail, crew and 
+0.5149294754647484,0.4850705245352517,positive,positive,right
+No.129 thank you. 2 days la
+0.5487974946939779,0.4512025053060221,positive,positive,right
+No.130  i, too, created an 
+0.6777790981722486,0.32222090182775137,positive,positive,right
+No.131  i balled my eyes ou
+0.40480753299231026,0.5951924670076897,negative,positive,wrong
+No.132  just give sam esmai
+0.7283774439229923,0.2716225560770077,positive,positive,right
+No.133  this show continues
+0.6732317680871128,0.3267682319128872,positive,positive,right
+No.134  just...:wow.....eve
+0.5443618078325526,0.4556381921674474,positive,positive,right
+No.135  so the episode ende
+0.5361986545792572,0.4638013454207428,positive,positive,right
+No.136 sam esmail wrote and
+0.4923406361257664,0.5076593638742336,negative,positive,wrong
+No.137 mark my words .. thi
+0.6474503516925767,0.3525496483074233,positive,positive,right
+No.138  some of the best wr
+0.5414852451857444,0.45851475481425574,positive,positive,right
+No.139  the realization tha
+0.6999228403884956,0.3000771596115044,positive,positive,right
+No.140  this was one of the
+0.36200712459906126,0.6379928754009387,negative,positive,wrong
+No.141  the villains of mr.
+0.5915239844756109,0.40847601552438906,positive,positive,right
+No.142  jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.143 jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.144 jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.145 jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.146 jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.147 jesus christ
+0.5209683291438353,0.47903167085616477,positive,positive,right
+No.148 jesus christ the mos
+0.4789055107808384,0.5210944892191616,negative,positive,wrong
+No.149  an emotional roller
+0.49089917170323333,0.5091008282967667,negative,positive,wrong
+No.150 this episode does it
+0.5300665467146203,0.4699334532853796,positive,positive,right
+No.151  this is the first r
+0.7030127702171558,0.29698722978284425,positive,positive,right
+No.152  so much brilliance 
+0.6598539868343698,0.34014601316563015,positive,positive,right
+No.153  i swear this show i
+0.724107622458688,0.27589237754131196,positive,positive,right
+No.154  some say that the b
+0.4489700980722935,0.5510299019277064,negative,positive,wrong
+No.155 by this rule, vera i
+0.8419956981743606,0.15800430182563946,positive,positive,right
+No.156 but this was brillia
+0.5108643563285512,0.48913564367144885,positive,positive,right
+No.157  this is the most in
+0.4288372347602819,0.571162765239718,negative,positive,wrong
+No.158  one of my favourite
+0.7270611977933918,0.2729388022066082,positive,positive,right
+No.159  this episode was si
+0.7886727697396972,0.21132723026030278,positive,positive,right
+No.160  this episode hit ha
+0.6430291820260162,0.35697081797398367,positive,positive,right
+No.161  fast paced episode 
+0.5984387513245042,0.40156124867549586,positive,positive,right
+No.162  the direction of th
+0.4956574331009773,0.5043425668990227,negative,positive,wrong
+No.163  that sounds like a 
+0.5726398168214394,0.42736018317856056,positive,positive,right
+No.164  after last week's i
+0.6920438355322412,0.3079561644677587,positive,positive,right
+No.165  with only a few epi
+0.4763402064713802,0.5236597935286198,negative,positive,wrong
+No.166 i am glad to see tha
+0.531734191694381,0.46826580830561904,positive,positive,right
+No.167  i'm really short of
+0.6070357734611076,0.3929642265388924,positive,positive,right
+No.168 i'm just glad i kept
+0.5399254241153447,0.4600745758846553,positive,positive,right
+No.169  i love the intensit
+0.5683578991381731,0.43164210086182686,positive,positive,right
+No.170  according to imdb's
+0.9563683988577973,0.04363160114220273,positive,positive,right
+No.171  this show has rarel
+0.7802309336430714,0.21976906635692867,positive,positive,right
+No.172  the final season of
+0.5698143900730015,0.43018560992699845,positive,positive,right
+No.173  i really hope this 
+0.4753398814536953,0.5246601185463046,negative,positive,wrong
+No.174 the only thing that 
+0.5282241115699315,0.47177588843006835,positive,positive,right
+No.175  this was (yet anoth
+0.8592484021448547,0.14075159785514535,positive,positive,right
+No.176  stop rating the epi
+0.6825878910847627,0.31741210891523725,positive,positive,right
+No.177  mind you, i don't s
+0.6845804705109019,0.3154195294890981,positive,positive,right
+No.178  when dom pulled out
+0.7830478211841427,0.21695217881585735,positive,positive,right
+No.179  mind blowing episod
+0.5051144764955444,0.4948855235044555,positive,positive,right
+No.180  this episode give a
+0.47605823897179766,0.5239417610282023,negative,positive,wrong
+No.181  this episode mainly
+0.48016300328616013,0.5198369967138399,negative,positive,wrong
+No.182  eliot anderson is o
+0.6241519530740185,0.3758480469259815,positive,positive,right
+No.183  great episode, espe
+0.6600239764070224,0.33997602359297757,positive,positive,right
+No.184  i enjoyed this one,
+0.6055613372883432,0.39443866271165695,positive,positive,right
+No.185  mr robot this time 
+0.6020845741399451,0.39791542586005485,positive,positive,right
+No.186  going all the way b
+0.9339504201725003,0.06604957982749975,positive,positive,right
+No.187  nothing has really 
+0.7843212219323457,0.21567877806765426,positive,positive,right
+No.188  heart racing the en
+0.5049784882383045,0.49502151176169545,positive,positive,right
+No.189 gonna be quite sad w
+0.5127311288005394,0.48726887119946066,positive,positive,right
+No.190  won't give spoilers
+0.5246116230903435,0.47538837690965646,positive,positive,right
+No.191 edge of my seat the 
+0.5116945149995793,0.4883054850004207,positive,positive,right
+No.192 michael cristofer (p
+0.5206254946005705,0.47937450539942955,positive,positive,right
+No.193  so many times throu
+0.5396871287708561,0.46031287122914394,positive,positive,right
+No.194  bd wong and michael
+0.7257817058780223,0.27421829412197785,positive,positive,right
+No.195  holy moly, what an 
+0.43270538306756395,0.567294616932436,negative,positive,wrong
+No.196  the episode we've b
+0.5636355166781886,0.43636448332181155,positive,positive,right
+No.197  vince gilligan gave
+0.41640410541854594,0.5835958945814541,negative,positive,wrong
+No.198  everything that was
+0.7800601502753485,0.2199398497246516,positive,positive,right
+No.199  elliot's actually d
+0.4231936912185135,0.5768063087814864,negative,positive,wrong
+No.200  i think the first p
+0.5459064506908236,0.4540935493091764,positive,positive,right
+No.201 the second person is
+0.5192935855046105,0.4807064144953895,positive,positive,right
+No.202 and the last person 
+0.5020855940795602,0.4979144059204398,positive,positive,right
+No.203 .
+0.5,0.5,positive,positive,right
+No.204 .
+0.5,0.5,positive,positive,right
+No.205 .
+0.5,0.5,positive,positive,right
+No.206 i think the kid to f
+0.6648897031861964,0.3351102968138035,positive,positive,right
+No.207 .
+0.5,0.5,positive,positive,right
+No.208 .
+0.5,0.5,positive,positive,right
+No.209 .
+0.5,0.5,positive,positive,right
+No.210 because of this we s
+0.5844421547735372,0.41555784522646283,positive,positive,right
+No.211  this episode is so 
+0.6942777888169758,0.3057222111830242,positive,positive,right
+No.212  sam esmail & his te
+0.7929728262352587,0.20702717376474145,positive,positive,right
+No.213  good pacing, nice t
+0.5411761621436422,0.4588238378563577,positive,positive,right
+No.214  my chest hurts from
+0.798565157899518,0.20143484210048204,positive,positive,right
+No.215  the joke aside.... 
+0.6828177508380543,0.31718224916194576,positive,positive,right
+No.216 storywise i'm really
+0.578157514281925,0.4218424857180749,positive,positive,right
+No.217 no idea what to say.
+0.521992803516693,0.478007196483307,positive,positive,right
+No.218 hall of fame for sur
+0.5090981017487574,0.4909018982512426,positive,positive,right
+No.219  this is probably on
+0.6452652908502885,0.3547347091497115,positive,positive,right
+No.220  this was probably t
+0.49379128185339305,0.506208718146607,negative,positive,wrong
+No.221  anyone else see the
+0.5017177091596382,0.49828229084036174,positive,positive,right
+No.222 awesome show! can't 
+0.4701857302451683,0.5298142697548316,negative,positive,wrong
+No.223  the tension through
+0.5480117619629674,0.4519882380370326,positive,positive,right
+No.224  i do have to say, t
+0.5402097306126763,0.45979026938732376,positive,positive,right
+No.225  this show keeps sur
+0.5509641277012877,0.44903587229871234,positive,positive,right
+No.226  the moment we've be
+0.5649784892677918,0.4350215107322082,positive,positive,right
+No.227  to all the creators
+0.5260785026041717,0.47392149739582834,positive,positive,right
+No.228  this episode is abo
+0.72777671684138,0.2722232831586199,positive,positive,right
+No.229  this episode featur
+0.6965151630023391,0.30348483699766104,positive,positive,right
+No.230  i have read some of
+0.9450707771346984,0.054929222865301594,positive,positive,right
+No.231 each character is th
+0.3963740667221203,0.6036259332778797,negative,positive,wrong
+No.232 i have seen some peo
+0.6877191321342451,0.31228086786575504,positive,positive,right
+No.233  i really enjoyed th
+0.5607493786857849,0.4392506213142152,positive,positive,right
+No.234  i actually loved th
+0.6366334461298524,0.3633665538701475,positive,positive,right
+No.235  right when it panne
+0.6228020948206928,0.3771979051793073,positive,positive,right
+No.236  it seems strange ir
+0.49178820214349633,0.5082117978565037,negative,positive,wrong
+No.237 it was a very good e
+0.5397822391470112,0.4602177608529887,positive,positive,right
+No.238  you cannot expect t
+0.6119654838971837,0.3880345161028163,positive,positive,right
+No.239  dom and darlene lea
+0.6754408074408678,0.32455919255913235,positive,positive,right
+No.240  the ending reminded
+0.8310812549261453,0.16891874507385476,positive,positive,right
+No.241  this episode frustr
+0.6141201125499912,0.3858798874500088,positive,positive,right
+No.242  it was a way slower
+0.6601793226954406,0.3398206773045594,positive,positive,right
+No.243  have you learned no
+0.598968817495426,0.4010311825045741,positive,positive,right
+No.244  look, i get it, som
+0.999471980328522,0.0005280196714780338,positive,positive,right
+No.245  has anyone noted th
+0.48008750191235183,0.5199124980876482,negative,positive,wrong
+No.246  i don't think irvin
+0.5841486052834644,0.4158513947165356,positive,positive,right
+No.247 it would be the reas
+0.4632541959606833,0.5367458040393166,negative,positive,wrong
+No.248  i know you guys are
+0.5934035401373811,0.406596459862619,positive,positive,right
+No.249  this episode is the
+0.7610731020559159,0.23892689794408412,positive,positive,right
+No.250  this episode comple
+0.7406580393578547,0.25934196064214526,positive,positive,right
+No.251  all i'm going to sa
+0.5700591296785552,0.42994087032144473,positive,positive,right
+No.252  first of all may i 
+0.7706772249866775,0.2293227750133226,positive,positive,right
+No.253 honestly this show i
+0.5484977256683332,0.45150227433166684,positive,positive,right
+No.254  i think what we act
+0.6597030899356905,0.34029691006430957,positive,positive,right
+No.255 he still hates peopl
+0.4700689112963602,0.5299310887036398,negative,positive,wrong
+No.256 he is happy (?) and 
+0.5952103545499559,0.40478964545004414,positive,positive,right
+No.257 and like most of thi
+0.707687423766163,0.29231257623383705,positive,positive,right
+No.258 for what purpose?
+0.5,0.5,positive,positive,right
+No.259 well, imo this is hi
+0.5095552796592098,0.4904447203407903,positive,positive,right
+No.260 2 episodes left, i'm
+0.676658638940076,0.323341361059924,positive,positive,right
+No.261  ...you should watch
+0.660839350488966,0.339160649511034,positive,positive,right
+No.262  only once in a whil
+0.6150283268768629,0.38497167312313707,positive,positive,right
+No.263  while the last epis
+0.6826892322484878,0.3173107677515123,positive,positive,right
+No.264  literally, if timel
+0.5876817074428479,0.41231829255715213,positive,positive,right
+No.265 well done, 10/10 hol
+0.49771278702102884,0.502287212978971,negative,positive,wrong
+No.266  this is one of the 
+0.7062379309168834,0.29376206908311664,positive,positive,right
+No.267  in the classical wo
+0.8788368644454871,0.12116313555451286,positive,positive,right
+No.268  so everyone's think
+0.5180677426677522,0.4819322573322477,positive,positive,right
+No.269  let me start this o
+0.7364715742435975,0.26352842575640256,positive,positive,right
+No.270 now on to the plot. 
+0.9780680815783888,0.02193191842161136,positive,positive,right
+No.271 10/10 for this episo
+0.5242921723483382,0.47570782765166175,positive,positive,right
+No.272  the creator of this
+0.618570438616461,0.38142956138353895,positive,positive,right
+No.273  the writing was min
+0.47020887298123293,0.5297911270187672,negative,positive,wrong
+No.274 after today's epic e
+0.5234019789302901,0.47659802106970994,positive,positive,right
+No.275 only 2 more to go, i
+0.49494326706865277,0.5050567329313472,negative,positive,wrong
+No.276  nice music, and pow
+0.8833733544012952,0.11662664559870486,positive,positive,right
+No.277  bjtch! youre! not! 
+0.4537021365733515,0.5462978634266485,negative,positive,wrong
+No.278  i usually try to sh
+0.5966795365274234,0.4033204634725767,positive,positive,right
+No.279  the episode, televi
+0.830669572503325,0.16933042749667493,positive,positive,right
+No.280  sam esmail shattere
+0.5005889008607243,0.49941109913927567,positive,positive,right
+No.281 this series is a pie
+0.5177557931095096,0.48224420689049036,positive,positive,right
+No.282  every question that
+0.5068425986106736,0.49315740138932634,positive,positive,right
+No.283  my mind still can n
+0.49723810045060135,0.5027618995493986,negative,positive,wrong
+No.284  the opening was par
+0.6546236626928631,0.3453763373071369,positive,positive,right
+No.285 i'm not even going t
+0.5287449723135383,0.4712550276864617,positive,positive,right
+No.286  this episode follow
+0.6670022503747124,0.3329977496252876,positive,positive,right
+No.287  so good that he fin
+0.5202697656396966,0.4797302343603035,positive,positive,right
+No.288 this was great do i 
+0.5522851972488578,0.44771480275114217,positive,positive,right
+No.289  still the conversat
+0.7711403613515286,0.2288596386484713,positive,positive,right
+No.290  incredible penultim
+0.4838359786234356,0.5161640213765644,negative,positive,wrong
+No.291  put simply, this is
+0.4515026487246481,0.5484973512753519,negative,positive,wrong
+No.292  the most perfect ep
+0.4331199410398017,0.5668800589601983,negative,positive,wrong
+No.293  i can't believe thi
+0.4573340225792049,0.5426659774207951,negative,positive,wrong
+No.294  to be clear, this i
+0.8361966173586435,0.16380338264135663,positive,positive,right
+No.295  when elliot talks t
+0.7109984107535792,0.28900158924642083,positive,positive,right
+No.296  best intro in the s
+0.4598293501284797,0.5401706498715202,negative,positive,wrong
+No.297 this episode was abs
+0.5253248395088181,0.4746751604911819,positive,positive,right
+No.298 been waiting to hear
+0.6001892021719772,0.3998107978280228,positive,positive,right
+No.299  anyone else feel da
+0.4455093974655317,0.5544906025344684,negative,positive,wrong
+No.300  my heart feels very
+0.833904243847369,0.16609575615263092,positive,positive,right
+No.301  wow. sam esmail has
+0.8896729448594303,0.11032705514056981,positive,positive,right
+No.302  it was an honor to 
+0.5940657483406849,0.405934251659315,positive,positive,right
+No.303 mr robot will foreve
+0.793153451390663,0.2068465486093371,positive,positive,right
+No.304 we watch as elliot s
+0.841573608673914,0.15842639132608613,positive,positive,right
+No.305  this is beyond word
+0.47589755958845914,0.5241024404115409,negative,positive,wrong
+No.306  i'm jumping for joy
+0.6200762388182182,0.3799237611817819,positive,positive,right
+No.307  this is easily one 
+0.9882790114932037,0.011720988506796306,positive,positive,right
+No.308  this show has chang
+0.6554758855300151,0.3445241144699848,positive,positive,right
+No.309  i'm no critic, but 
+0.5806319156328923,0.4193680843671076,positive,positive,right
+No.310  to all the fans of 
+0.45204655172340097,0.5479534482765991,negative,positive,wrong
+No.311  the finale seals th
+0.5179860699567802,0.48201393004321985,positive,positive,right
+No.312  i was completely bl
+0.6455048401065324,0.3544951598934676,positive,positive,right
+No.313  this was a satisfyi
+0.5115968129790008,0.4884031870209991,positive,positive,right
+No.314  without a doubt the
+0.4642421147100123,0.5357578852899878,negative,positive,wrong
+No.315  i stopped watching 
+0.7332946956084093,0.2667053043915908,positive,positive,right
+No.316  perfect ending to a
+0.3822493524437675,0.6177506475562325,negative,positive,wrong
+No.317  genuinely the most 
+0.932525659090449,0.06747434090955097,positive,positive,right
+No.318  'goodbye friend' ti
+0.5121673485986098,0.4878326514013902,positive,positive,right
+No.319 i hear you. this was
+0.5310826865699452,0.4689173134300547,positive,positive,right
+No.320  i will be short. i 
+0.49869708330769186,0.5013029166923081,negative,positive,wrong
+No.321  i'll start from the
+0.4394687897893208,0.5605312102106792,negative,positive,wrong
+No.322 facing tempests of d
+0.516120823435689,0.483879176564311,positive,positive,right
+No.323 creatures of my drea
+0.5,0.5,positive,positive,right
+No.324 now and forever,
+0.5,0.5,positive,positive,right
+No.325 i'm your king."these
+0.4782239900100685,0.5217760099899315,negative,positive,wrong
+No.326  this finale was ver
+0.590017516850509,0.4099824831494911,positive,positive,right
+No.327  i just recently mad
+0.5582815587544249,0.44171844124557513,positive,positive,right
+No.328  i will remember thi
+0.6670837080030486,0.33291629199695133,positive,positive,right
+No.329  this episode puts e
+0.3777395190252261,0.6222604809747738,negative,positive,wrong
+No.330  it's 5 am and i've 
+0.5243578827656925,0.47564211723430744,positive,positive,right
+No.331 i don't think that i
+0.5714598834314157,0.42854011656858415,positive,positive,right
+No.332  this finally wraps 
+0.5421369971045219,0.4578630028954781,positive,positive,right
+No.333 very good thing also
+0.7827252498053733,0.21727475019462675,positive,positive,right
+No.334  crap 90's sitcom bi
+0.5773063990797299,0.42269360092027014,positive,negative,wrong
+No.335  this just isn't cre
+0.547247115986676,0.452752884013324,positive,negative,wrong
+No.336  i've watched season
+0.8772441377908339,0.12275586220916605,positive,negative,wrong
+No.337  spoiler alert, of c
+0.9678213103716057,0.032178689628394395,positive,negative,wrong
+No.338  trigger warning(s):
+0.9986259717761024,0.0013740282238976541,positive,negative,wrong
+No.339  overviewbecause of 
+0.977353209102391,0.022646790897608873,positive,negative,wrong
+No.340  i've been a fan of 
+0.8060739125992277,0.1939260874007723,positive,negative,wrong
+No.341  it's hard to write 
+0.46072524606835386,0.539274753931646,negative,negative,right
+No.342  trigger warning(s):
+0.9981888049558305,0.0018111950441695175,positive,negative,wrong
+No.343  the first season of
+0.9323463269299559,0.06765367307004413,positive,negative,wrong
+No.344  mr. robot should ha
+0.8965141230916142,0.10348587690838584,positive,negative,wrong
+No.345  season 2 finale of 
+0.6382045740737458,0.3617954259262543,positive,negative,wrong
+No.346  compared to the slo
+0.9300997985959009,0.06990020140409904,positive,negative,wrong
+No.347  when a fictional sh
+0.7460868827052836,0.25391311729471633,positive,negative,wrong
+No.348  this episode has no
+0.9550167270528203,0.04498327294717978,positive,negative,wrong
+No.349  really, people are 
+0.8569835617872913,0.14301643821270876,positive,negative,wrong
+No.350  what happened to th
+0.5362837390348854,0.46371626096511465,positive,negative,wrong
+No.351 wtf was that when le
+0.7195782126375636,0.2804217873624364,positive,negative,wrong
+No.352  beside the fact tha
+0.6116375812198581,0.3883624187801419,positive,negative,wrong
+No.353  positives:
+0.5,0.5,positive,negative,wrong
+No.354 1-fantastic cinemato
+0.49116800212181955,0.5088319978781803,negative,negative,right
+No.355 2-the woman who was 
+0.5037219051827102,0.49627809481728974,positive,negative,wrong
+No.356 1-no real plot progr
+0.5425035297128021,0.45749647028719775,positive,negative,wrong
+No.357 2-some of it just fe
+0.7585717334372271,0.2414282665627729,positive,negative,wrong
+No.358  this episode didn't
+0.515688517158836,0.4843114828411639,positive,negative,wrong
+No.359  what is the value a
+0.5178769170900622,0.4821230829099377,positive,negative,wrong
+No.360  several series i wa
+0.7310875727876652,0.2689124272123348,positive,negative,wrong
+No.361  a number of really 
+0.7963483633164047,0.2036516366835953,positive,negative,wrong
+No.362  never in life would
+0.6125864259602478,0.38741357403975213,positive,negative,wrong
+No.363  i feel the writers 
+0.8781420693578679,0.12185793064213211,positive,negative,wrong
+No.364  for at least the la
+0.6562705648874054,0.34372943511259463,positive,negative,wrong
+No.365  there's simply no e
+0.4949843467683986,0.5050156532316014,negative,negative,right
+No.366  the airport scene w
+0.6067425592122088,0.39325744078779123,positive,negative,wrong
+No.367  writing your way ou
+0.6240805843559664,0.3759194156440337,positive,negative,wrong
+No.368  this episode was re
+0.6309048706092258,0.36909512939077427,positive,negative,wrong
+No.369  here's a quick remi
+0.828349527947541,0.1716504720524589,positive,negative,wrong
+No.370  very boring. not mu
+0.5710625500087615,0.42893744999123856,positive,negative,wrong
+No.371  the part about the 
+0.7775024729281633,0.2224975270718366,positive,negative,wrong
+No.372  i really dont like 
+0.8421423556027883,0.15785764439721178,positive,negative,wrong
+No.373  overall the 4th sea
+0.847309528854174,0.15269047114582596,positive,negative,wrong
+No.374  elliot's parents ho
+0.48982063302310075,0.5101793669768993,negative,negative,right
+The prediction correctness is 73.86666666666666%

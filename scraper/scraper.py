@@ -105,7 +105,8 @@ def classify() -> None:
 
     training_positive_set = open("training_positive.txt", "w")
     training_negative_set = open("training_negative.txt", "w")
-    testing_set = open("testing.txt", "w")
+    testing_positive = open("testing_positive.txt", "w")
+    testing_negative = open("testing_negative.txt", "w")
 
     positive_set_midpoint: int = int(len(positive_reviews) / 2)
     negative_set_midpoint: int = int(len(negative_reviews) / 2)
@@ -116,7 +117,9 @@ def classify() -> None:
         )
 
     for i in range(positive_set_midpoint, len(positive_reviews)):
-        testing_set.write(positive_reviews[i].title + " " + positive_reviews[i].content)
+        testing_positive.write(
+            positive_reviews[i].title + " " + positive_reviews[i].content
+        )
 
     for i in range(negative_set_midpoint):
         training_negative_set.write(
@@ -124,10 +127,14 @@ def classify() -> None:
         )
 
     for i in range(negative_set_midpoint, len(negative_reviews)):
-        testing_set.write(negative_reviews[i].title + " " + negative_reviews[i].content)
+        testing_negative.write(
+            negative_reviews[i].title + " " + negative_reviews[i].content
+        )
 
     training_positive_set.close()
-    testing_set.close()
+    training_negative_set.close()
+    testing_positive.close()
+    testing_negative.close()
 
 
 if __name__ == "__main__":
