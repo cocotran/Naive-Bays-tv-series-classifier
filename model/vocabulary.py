@@ -41,29 +41,24 @@ for line in training_negative_file_lines:
     for word in line.split(" "):
         training_negative_set.append(clean_word(word))
 
+vocabulary_set: list = list(set(training_positive_set + training_negative_set))
 
-visited_words: Deque = deque([])
+fm = open("model.txt", "w")
+fr = open("remove.txt", "w")
+
+for word in vocabulary_set:
+    # Remove common unimportant words
+    if word in stopwords:
+        fr.write(word + "\n")
+        vocabulary_set.remove(word)
+
+vocabulary_set = deque(vocabulary_set)
 
 
-def process(word: str, word_count: int) -> None:
-
-    fm = open("model.txt", "a")
-    fr = open("remove.txt", "a")
+def process(word: str, word_count: int, smoothing_delta: float) -> None:
 
     frequency_in_positive: int = 0
     frequency_in_negative: int = 0
-
-    # Only visit a word once
-    if word in visited_words:
-        return
-
-    # Add new word to visited list
-    visited_words.append(word)
-
-    # Common unimportant words
-    if word in stopwords:
-        fr.write(word + "\n")
-        return
 
     # Counting frequency in positive set
     for i in training_positive_set:
@@ -75,14 +70,12 @@ def process(word: str, word_count: int) -> None:
         if word == i:
             frequency_in_negative += 1
 
-    alpha: float = 1.0
-
-    conditional_probability_in_positive: float = (frequency_in_positive + alpha) / len(
-        training_positive_set
-    )
-    conditional_probability_in_negative: float = (frequency_in_negative + alpha) / len(
-        training_negative_set
-    )
+    conditional_probability_in_positive: float = (
+        frequency_in_positive + smoothing_delta
+    ) / (len(training_positive_set) + len(vocabulary_set))
+    conditional_probability_in_negative: float = (
+        frequency_in_negative + smoothing_delta
+    ) / (len(training_negative_set) + len(vocabulary_set))
 
     # Filtering words with low frequency
     if frequency_in_positive < 3 and frequency_in_negative < 3:
@@ -99,15 +92,15 @@ def process(word: str, word_count: int) -> None:
         )
     )
 
+
+def create_vocabulary(smoothing_delta: float) -> None:
+    count = 0
+    for word in vocabulary_set:
+        process(word, count, smoothing_delta)
+        count += 1
     fm.close()
     fr.close()
 
 
 if __name__ == "__main__":
-    count = 0
-    for word in training_positive_set:
-        process(word, count)
-        count += 1
-    for word in training_negative_set:
-        process(word, count)
-        count += 1
+    create_vocabulary(1.0)

@@ -1,22 +1,22 @@
 from io import TextIOWrapper
 from collections import deque
 from typing import Deque
-from math import log10
-
-
-vocabulary_list: Deque = deque([])
-probability_list: Deque = deque([])
-
-file: TextIOWrapper = open("model.txt", "r")
-for line in file:
-    line = line.replace("\n", "")
-    if "No." in line:
-        vocabulary_list.append(line.split(" ")[1])
-    else:
-        probability_list.append(line.split(","))
+from math import log10, floor
+from vocabulary import *
 
 
 def classify(review_number: int, review: str, correct_result: str) -> bool:
+    vocabulary_list: Deque = deque([])
+    probability_list: Deque = deque([])
+
+    file: TextIOWrapper = open("model.txt", "r")
+    for line in file:
+        line = line.replace("\n", "")
+        if "No." in line:
+            vocabulary_list.append(line.split(" ")[1])
+        else:
+            probability_list.append(line.split(","))
+
     review_words: list = review.split(" ")
 
     p_positive: float = 0.5
@@ -49,7 +49,10 @@ def classify(review_number: int, review: str, correct_result: str) -> bool:
     return compare == "right"
 
 
-if __name__ == "__main__":
+def main(smoothing_delta: float) -> None:
+
+    create_vocabulary(smoothing_delta)
+
     file: TextIOWrapper = open("testing_positive.txt", "r")
     test_set: list = file.read().split("\n")
     file.close()
@@ -76,3 +79,11 @@ if __name__ == "__main__":
         "The prediction correctness is {}%".format((correct_count * 100) / count)
     )
     file.close()
+
+    file: TextIOWrapper = open("smooth-graph.txt", "a")
+    file.write("{},{}".format(smoothing_delta, (correct_count * 100) / count) + "\n")
+    file.close()
+
+
+if __name__ == "__main__":
+    main(1.0)
