@@ -6,6 +6,14 @@
   
 2> In the root project directory, run:  
 
+Install required packages
+```bash
+$ python3 -m venv env                   # create new virtual environment
+$ source env/bin/activate               # activate created environment
+(env)$ pip install -r requirements.txt  # install required packages 
+```
+
+Then
 ```bash
 $ python3 model/classifier.py [--d smoothing_delta]   # to generate new vocabulary
 ```
