@@ -1,12 +1,16 @@
 from io import TextIOWrapper
 from collections import deque
 from typing import Deque
-from math import log10, floor
+from math import log10
 from vocabulary import *
+import argparse
 
 
 def classify(review_number: int, review: str, correct_result: str) -> bool:
+
+    # List of vocab from model.txt
     vocabulary_list: Deque = deque([])
+    # List of vocab  probabilities
     probability_list: Deque = deque([])
 
     file: TextIOWrapper = open("model.txt", "r")
@@ -19,19 +23,23 @@ def classify(review_number: int, review: str, correct_result: str) -> bool:
 
     review_words: list = review.split(" ")
 
+    # Calculate probability of positive and negative
     p_positive: float = 0.5
     p_negative: float = 0.5
 
     for word in review_words:
         if word in vocabulary_list:
             index: int = vocabulary_list.index(word)
+            # Using log10 to avoid arithmetic underflow
             p_positive *= log10(float(probability_list[index][1]))
             p_negative *= log10(float(probability_list[index][3]))
 
+    # For debugging 
     if p_positive + p_negative == 0.0:
         print(review_number)
         return False
 
+    # Compare data and save result in result.txt
     p_review_positive: float = p_positive / (p_positive + p_negative)
     p_review_negative: float = p_negative / (p_positive + p_negative)
     result: str = "positive" if p_review_positive >= p_review_negative else "negative"
@@ -86,4 +94,17 @@ def main(smoothing_delta: float) -> None:
 
 
 if __name__ == "__main__":
-    main(1.0)
+    # Instantiate the parser
+    parser = argparse.ArgumentParser(description="Naive Bays Classifier")
+
+    # Optional argument
+    parser.add_argument(
+        "--d", type=str, help="Smoothing delta (e.g., 1.0)"
+    )
+
+    args = parser.parse_args()
+
+    if args.d:
+        smoothing_delta: float = float(args.d)
+
+    main(smoothing_delta)

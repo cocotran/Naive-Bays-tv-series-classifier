@@ -72,6 +72,7 @@ class Review:
         self.content = content
 
 
+# Function to calculate probabilities of a word and save it to model.txt
 def classify() -> None:
     positive_reviews: list = []
     negative_reviews: list = []
@@ -103,6 +104,7 @@ def classify() -> None:
                 content: str = i.find("div", class_="text").text.lower()
                 add_review_to_database(Review(rating, title, content))
 
+    # Temporary database
     training_positive_set = open("training_positive.txt", "w")
     training_negative_set = open("training_negative.txt", "w")
     testing_positive = open("testing_positive.txt", "w")
@@ -111,6 +113,7 @@ def classify() -> None:
     positive_set_midpoint: int = int(len(positive_reviews) / 2)
     negative_set_midpoint: int = int(len(negative_reviews) / 2)
 
+    # Save half in training set, half in testing set
     for i in range(positive_set_midpoint):
         training_positive_set.write(
             positive_reviews[i].title + " " + positive_reviews[i].content
@@ -131,6 +134,7 @@ def classify() -> None:
             negative_reviews[i].title + " " + negative_reviews[i].content
         )
 
+    # Closing files to avoid changes
     training_positive_set.close()
     training_negative_set.close()
     testing_positive.close()

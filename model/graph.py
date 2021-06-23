@@ -15,4 +15,4 @@ for line in file:
 if __name__ == "__main__":
     plt.plot(smoothing_delta, correctness_percentage)
     # plt.show()
-    plt.savefig("matplotlib.png")
+    plt.savefig("graph.png")
